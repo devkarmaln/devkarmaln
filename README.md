@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devkarmaln
 - 👀 I’m interested in Digital World
 - 🌱 I’m currently learning React Native and Kotlin
-- 📫 How to reach me
+- 📫 dev.karmaln@gmail.com
 
 <!---
 devkarmaln/devkarmaln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
