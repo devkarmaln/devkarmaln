@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devkarmaln
 - 👀 I’m interested in Digital World
-- 🌱 I’m currently learning React Native and Kotlin
+- 🌱 I’m currently working with React Native and Kotlin
 - 📫 dev.karmaln@gmail.com
 
 <!---
